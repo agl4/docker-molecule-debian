@@ -1,4 +1,4 @@
-ARG FROM_TAG=12
+FROM debian:12
 ENV container docker
 
 ENV LC_ALL C
